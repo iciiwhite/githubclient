@@ -3,7 +3,7 @@
   "short_name": "GH Client",
   "description": "A complete GitHub client web app to manage repositories using a Personal Access Token.",
   "Author" : "Icii White.",
-  "start_url": "/",
+  "start_url": "/githubclient",
   "display": "standalone",
   "background_color": "#0d1117",
   "theme_color": "#0d1117",
